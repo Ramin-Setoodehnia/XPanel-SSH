@@ -76,9 +76,9 @@ https://t.me/Xpanelssh
 <p align="left">
 <a href="https://plisio.net/donate/KL6W5z8k" target="_blank"><img src="https://plisio.net/img/donate/donate_light_icons_mono.png" alt="Donate Crypto on Plisio" width="240" height="80" /></a><br>
 	
-|                    TRX                   |                       ETH                         |                    Litecoin                       |
+|                    TRX                   |                       ETH                         |                    TON                       |
 | ---------------------------------------- |:-------------------------------------------------:| -------------------------------------------------:|
-| ```TYQraQ5JJXKyVD6BpTGoDYNhiLbFRfzVtV``` |  ```0x6cc08b2057EfAe4d76Af531e145DeEd4B73c9D7e``` | ```ltc1q6gq4espx74lp6jvhmr0jmxlu4al0uwemmzwdv4``` |	
+| ```TFMgyhpyfUoLurpoeNCZabaub1FfWkYTgk``` |  ```0xf299124Db80852155845E49D9558BBe00d508942``` | ```UQA7JDlj9LwRQeceXYpJPuA-w74iEhMW-KYw8OIYjhY53w2V``` |	
 
 </p>	
 
